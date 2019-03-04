@@ -1,2 +1,15 @@
-# CG
-Trabalhos feitos para a disciplina de Computação Gráfica, semestre 2019.1, Universidade Federal do Ceará - Campus Quixadá.
+# Computação Gráfica
+
+Repositório que contém as atividades da disciplina de Computação Gráfica.
+
+## Tecnologias
+
+C++ e OpenGL.
+
+## Bibliotecas
+
+GLUT, 3DS, SDL 1.2 e DevIL.
+
+### Tópico 1: GLUT do Zero
+
+Projeto inicial com câmera.

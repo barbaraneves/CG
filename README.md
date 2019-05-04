@@ -14,4 +14,11 @@ OpenGL, GLU, GLUT, 3DS, SDL 1.2 e DevIL.
 
 Projeto inicial com câmera.
 
-### Tópico 2: Transformações.
+### Tópico 2: Transformações
+
+### Tópico 3: Melhoria nas transformações
+
+### Tópico 4: Câmera GluLookAt
+ 
+### Tópico 5: Projeções e Sombras
+

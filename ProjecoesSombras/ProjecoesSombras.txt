@@ -1,0 +1,5 @@
+-destacar cubo 2x2x2 [selecao do Desenha]
+  -destacar o que aparece na imagem (do cubo 2x2x2) [quadrado]
+-destacar volume de visualizacao
+  -permitir alterar parametros da projecao usando o mouse
+
